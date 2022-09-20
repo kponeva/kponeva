@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kenshi
-- 👀 I’m interested in data science, machine learning, and digital marketing
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning how to build high-impact machine learning models
 - 💞️ I’m looking to collaborate on exciting projects that channel my interest in technology, marketing, and environment
 - 📫 How to reach me: kenshiponeva@gmail.com
